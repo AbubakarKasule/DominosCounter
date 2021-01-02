@@ -1,0 +1,12 @@
+{
+  "name": "DominosCounter",
+  "displayName": "DominosCounter",
+  "expo": {
+    "name": "DominosCounter",
+    "slug": "DominosCounter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
